@@ -67,7 +67,7 @@
 
 ![1-time-graph](https://user-images.githubusercontent.com/101931446/166964267-daf1d0f2-57cc-4a1f-a4b3-2dfa0f0b5fbd.jpg)
 
-그래프가 들쭉날쭉하나 전체적인 모양은 가 시간복잡도 식에 부합한다.
+그래프가 들쭉날쭉하나 전체적인 모양은 각 정렬의 시간복잡도 식에 부합한다.
 
 ![100-times-graph](https://user-images.githubusercontent.com/101931446/166964273-7c01e932-0dc6-430b-8dcd-23c72b0f11de.jpg)
 
