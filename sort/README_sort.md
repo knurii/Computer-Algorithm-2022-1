@@ -65,9 +65,14 @@
 
 [소스코드](https://github.com/knurii/computerAlgorithm/tree/main/sort/src/100%20times "100times")
 
-[ms그래프이미지](https://github.com/knurii/computerAlgorithm/tree/main/sort/graph_img/100%20times/ms "100_ms")
+![1-time-graph](https://user-images.githubusercontent.com/101931446/166964267-daf1d0f2-57cc-4a1f-a4b3-2dfa0f0b5fbd.jpg)
 
-[log그래프이미지](https://github.com/knurii/computerAlgorithm/tree/main/sort/graph_img/100%20times/log "100_log")
+그래프가 들쭉날쭉하나 전체적인 모양은 가 시간복잡도 식에 부합한다.
 
-1번 실행했을 때와 달리 100번 실행 했을 때 각 정렬의 이론적 시간복잡도에 근접하는 것을 시각적으로 확인할 수 있었다.
+![100-times-graph](https://user-images.githubusercontent.com/101931446/166964273-7c01e932-0dc6-430b-8dcd-23c72b0f11de.jpg)
+
+매끈하게 다듬어진 형태를 관찰할 수 있다.
+그리고 수행 시간에 대해 성능이 확연하게 드러난다.
+가자 빠른 정렬인 퀵정렬의 수행시간이 가장 짧고, 기본 정렬인 버블 정렬의 수행 시간이 가장 긴 것을 확인할 수 있다.
+
 
