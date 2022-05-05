@@ -34,6 +34,8 @@
 	- 루트 이외의 부분을 힙으로 만든다.
 - 시간 복잡도 : O(log n)
 
+[위 정렬들의 소스코드](https://github.com/knurii/computerAlgorithm/blob/main/sort/src/sort.py "src")
+
 7. 정렬 문제의 하한 (lower bound)
 - 이론적으로 Ω(nlog₂n) 보다 성능이 좋아질 수 없다
 - 정해지지 않은 x,y,z 세개의 숫자가 있다 (입력개수 3개)
@@ -53,6 +55,8 @@
 ----------------
 각 정렬의 시간복잡도에 근접하는지 알아보기 위하여, 리스트에 저장된 값들(2⁵~2²⁰) 순서를 랜덤으로 바꾸었다.
 그 다음 순서가 바뀐 리스트에 대해 각각의 정렬을 수행한 후 입력 개수 별 수행 시간을 출력하였다.
+
+[1번의 random data src](https://github.com/knurii/computerAlgorithm/blob/main/sort/src/1%20time/random_data_time.py "1 time")
 
 💻 출력 화면
 <img width="1440" alt="sort_print" src="https://user-images.githubusercontent.com/101931446/166950154-6ef1f3e4-0d9d-44da-9f5c-01bda10cbf5c.png">
