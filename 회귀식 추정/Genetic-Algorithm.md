@@ -30,7 +30,7 @@ repeat-루프에서 현재 세대의 해로부터 다음 세대의 해를 생성
 
 **후보해(candidate soultion)**
 
-https://user-images.githubusercontent.com/101931446/174304101-02095557-fd40-48c5-827a-e80228e7d00b.jpeg
+<img src = "https://user-images.githubusercontent.com/101931446/174304101-02095557-fd40-48c5-827a-e80228e7d00b.jpeg" width="90%"></img>
 
 시작도시 A에서 출발해서 모든 다른 도시를 1번씩만 방문하고 다시 시작도시로 돌아온다.
 
