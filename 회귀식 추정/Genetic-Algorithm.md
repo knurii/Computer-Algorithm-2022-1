@@ -27,6 +27,7 @@ repeat-루프에서 현재 세대의 해로부터 다음 세대의 해를 생성
 이 해들은 후보해(candidate solution)라고 부른다.
 
  repeat-루프의 반복적인 수행을 통해서 최적해 또는 최적해에 근접한 해가 될 수 있기 때문
+ 
 
 **후보해(candidate soultion)**
 
